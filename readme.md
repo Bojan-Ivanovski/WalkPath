@@ -38,7 +38,7 @@ Output:
     node main.js
     ```
 2. To use the program:
-    Put the graph in (Whitespaces included) and after you have finished inputing the graph Ctrl+C to end the program and that will generate an outcome. 
+    Put the graph in (Whitespaces included) and after you have finished inputing the graph, insert a new line and then press Ctrl+C to end the program and that will generate an outcome. 
     ```Bash
     >---A-@-+
             |
